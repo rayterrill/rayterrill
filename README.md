@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rayterrill. I'm a SRC/cloud infrastructure engineer.
+- 👋 Hi, I’m @rayterrill. I'm a SRE/cloud infrastructure engineer.
 - 🌱 I’m currently learning anything and everything.
 
 <!---
